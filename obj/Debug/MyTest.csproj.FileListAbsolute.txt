@@ -1,0 +1,7 @@
+D:\Code\考试系统\ftc_temp\MyTest\bin\Debug\MyTest.exe.config
+D:\Code\考试系统\ftc_temp\MyTest\bin\Debug\MyTest.exe
+D:\Code\考试系统\ftc_temp\MyTest\bin\Debug\MyTest.pdb
+D:\Code\考试系统\ftc_temp\MyTest\obj\Debug\MyTest.csproj.AssemblyReference.cache
+D:\Code\考试系统\ftc_temp\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+D:\Code\考试系统\ftc_temp\MyTest\obj\Debug\MyTest.exe
+D:\Code\考试系统\ftc_temp\MyTest\obj\Debug\MyTest.pdb
